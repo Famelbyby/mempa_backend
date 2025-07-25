@@ -1,0 +1,18 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:Famelbyby/mempa_api-gateway.git
+[submodule "auth-service"]
+	path = auth-service
+	url = git@github.com:Famelbyby/mempa_auth-service.git
+[submodule "points-service"]
+	path = points-service
+	url = git@github.com:Famelbyby/mempa_points-service.git
+[submodule "points_service"]
+	path = points_service
+	url = git@github.com:Famelbyby/mempa_points-service.git
+[submodule "friends_service"]
+	path = friends_service
+	url = git@github.com:Famelbyby/friends-service.git
+[submodule "profile-service"]
+	path = profile-service
+	url = git@github.com:Famelbyby/mempa_profile-service.git
